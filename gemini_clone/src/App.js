@@ -1,9 +1,9 @@
-
+import Sidebar from'./components/Sidebar/sidebar'
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <>
+      <Sidebar/>
+    </>
   );
 }
 
